@@ -1,0 +1,2 @@
+!function(){"use strict";CustomFunctions.associate("XADD",(function(n,t){return n+t})),CustomFunctions.associate("LOG",(function(n){return console.log(n),n}))}();
+//# sourceMappingURL=customfunctions.js.map
